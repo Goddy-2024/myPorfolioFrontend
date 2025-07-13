@@ -22,7 +22,7 @@ const Contact = () => {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     try {
-      axios.post('http://localhost:4000/send-email', formData);
+      axios.post('https://myportfoliobackend-ynfv.onrender.com', formData);
       alert("Message Sent!");
     } catch (error) {
       alert("Error sending message");
