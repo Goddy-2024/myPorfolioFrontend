@@ -5,7 +5,7 @@ export const SocialLinks = () => {
   return (
     <>
       <a 
-        href="https://www.linkedin.com/in/godswillomondi/" 
+        href="https://www.linkedin.com/in/godswillomondidev" 
         target="_blank" 
         rel="noopener noreferrer"
         className="social-icon"
