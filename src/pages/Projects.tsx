@@ -72,7 +72,7 @@ providing them with a seamless way to connect based on their location and produc
           {/* Project 3 */}
           <div id="ledger" className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="animate-slide-in">
-            <img src="/uploads/mmufellowship" className="bg-gray-200 h-80 rounded-lg flex items-center justify-center"/>
+            <img src="/uploads/mmufellowship.png" className="bg-gray-200 h-80 rounded-lg flex items-center justify-center"/>
 
                 <p className="text-gray-500 font-medium">ADMIN FELLOWSHIP MANAGER</p>
               
