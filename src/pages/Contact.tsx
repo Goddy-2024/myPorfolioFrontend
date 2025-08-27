@@ -72,7 +72,7 @@ const Contact = () => {
               <h3 className="text-xl font-bold mb-4 text-navy">Connect With Me</h3>
               <div className="flex gap-4">
                 <a 
-                  href="https://linkedin.com/in/" 
+                  href="https://www.linkedin.com/in/godswillomondidev/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="social-icon"
@@ -89,7 +89,7 @@ const Contact = () => {
                 </a>
                 
                 <a 
-                  href="https://github.com/" 
+                  href="https://github.com/Goddy-2024" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="social-icon"
@@ -106,7 +106,7 @@ const Contact = () => {
                 </a>
                 
                 <a 
-                  href="https://facebook.com/" 
+                  href="https://web.facebook.com/godswill.767370" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="social-icon"
