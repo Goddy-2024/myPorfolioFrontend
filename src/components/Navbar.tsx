@@ -43,11 +43,14 @@ export const Navbar = () => {
             <Link to="/projects" className={`nav-link ${pathname === "/projects" ? "active-link" : ""}`}>
               PROJECTS
             </Link>
-            <Link to="/contact" className={`nav-link ${pathname === "/contact" ? "active-link" : ""}`}>
-              CONTACT
+            <Link to="/" className={`nav-link ${pathname === "/" ? "active-link" : ""}`}>
+              POSTS
             </Link>
             <Link to="/about" className={`nav-link ${pathname === "/about" ? "active-link" : ""}`}>
               ABOUT ME
+            </Link>
+            <Link to="/contact" className={`nav-link ${pathname === "/contact" ? "active-link" : ""}`}>
+              CONTACT
             </Link>
           </nav>
           
